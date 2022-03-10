@@ -1,7 +1,7 @@
 # tfc_directory_filtering
 TFC directory filtering
 
-# Example: null provider with Terraform
+# Example: null provider and directory filtering with TFC
 
 Directory filtering enables you to define on which directory in your repository terraform will execute [See documentation](https://www.terraform.io/cloud-docs/workspaces/settings#terraform-working-directory) 
 
